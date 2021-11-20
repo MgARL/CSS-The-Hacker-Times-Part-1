@@ -71,3 +71,16 @@ main{
 .even-more-articles section p{
     text-align: justify;
 }
+footer{
+    border-top: 8px double #777;
+    text-align: center;
+}
+footer ul li{
+    font-size: 15px;
+}
+footer p{
+    color: #777;
+    display: inline-block;
+    margin: 1em;
+    font-size: 12px;
+}

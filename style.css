@@ -27,6 +27,10 @@ ul li a{
 nav{
     border-top:1px solid #777;
     border-bottom: 1px solid #777;
+    /* Hacker Times 2 */
+    position: sticky;
+    top: 1em;
+    background-color: white;
 }
 
 h1, h2, h4, h5{
@@ -84,3 +88,4 @@ footer section a{
     margin: 0.5em;
     font-size: 12px;
 }
+/* The Hacker Times Part II */
